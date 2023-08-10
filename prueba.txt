@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 otro texto
+=======
+nuevo archivo
+>>>>>>> 001e1bc6a0ca7193c7fff092c49783855c8c557a
